@@ -1,21 +1,15 @@
 # basic-website
 
-TODO
+Download Bootstrap.
 
-Add a backend composed of a google sheet + google forms
+Check out bootstrap examples, 'steal' one using view-source to get html.
 
-1) Add new funny picture
+Fix paths in downloaded source.
 
-- image url
-- initial comment
-- timestamp
-- tag
-- In spreadsheet, an "admin accepted" flag
+Run website locally with `python -m SimpleHTTPServer`
 
+Go over bootstrap components + chrome web inspector.
 
-2) View funny pictures
-- Retrieve list of pictures from google forms and render them with their initial comments + count of total comments. 
-- click on picture to view all comments and add your own to an image
+Link multiple pages.
 
-3) Add sub comment
-- google form
+Basic javascript to random change background color.
