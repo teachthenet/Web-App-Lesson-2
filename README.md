@@ -2,7 +2,7 @@
 
 Download Bootstrap.
 
-Check out bootstrap examples, 'steal' one using view-source to get html.
+Check out bootstrap examples, 'steal' one using view-source to get html. (Or get one from [here](https://github.com/BlackrockDigital/startbootstrap))
 
 Fix paths in downloaded source.
 
